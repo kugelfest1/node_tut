@@ -1,0 +1,8 @@
+{
+  "name": "my_module",
+  "version": "0.1.0",
+  "description": "first try nodejs app",
+  "dependencies": {
+    "express" : "latest"
+  }
+}
