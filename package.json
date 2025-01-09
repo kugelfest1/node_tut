@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "first try nodejs app",
   "dependencies": {
-    "express" : "latest"
+    "censorify32767": "^0.1.3",
+    "express": "latest"
   }
 }
